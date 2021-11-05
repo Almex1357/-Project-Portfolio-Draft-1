@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --colorTextos: #7e7e7e;
+  --colorBotones: #f69229;
+  --colorFondo: #5d8a9f;
+  --paddingSecciones: 60 px 0;
+  --marginElementos: 40px;
+}
+
+body {
+  font-family: "Josefin Sans", sans-serif;
+}
